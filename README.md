@@ -1,4 +1,4 @@
-Remote-BTC - gestore di mining rig remoto
+Remote Rig Manager - gestore di mining rig remoto
 Applicazione in C# e Xamarin per la gestione remota di mining Rig con HiveOS e accesso SSH interno
 
 Concept del widget:
